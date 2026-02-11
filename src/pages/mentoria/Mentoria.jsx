@@ -1,5 +1,5 @@
 import s from "../Style.module.scss"
-import InfoCard from "../../components/infoCard/infoCard"
+import InfoCard from "../../components/infoCard/InfoCard"
 import mentoria from "../../assets/imagens/mentoria.png"
 import compExp from "../../assets/imagens/compExp.png"
 import acompanhamento from "../../assets/imagens/acompanhamento.png"

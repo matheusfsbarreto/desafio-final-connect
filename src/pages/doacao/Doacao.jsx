@@ -1,5 +1,5 @@
 import s from "../Style.module.scss"
-import InfoCard from "../../components/infoCard/infoCard"
+import InfoCard from "../../components/infoCard/InfoCard"
 import igFamilia from "../../assets/imagens/igFamilia.png"
 import pfEscola from "../../assets/imagens/pfEscola.png"
 import conecta from "../../assets/imagens/conecta.png"
